@@ -1,0 +1,33 @@
+body{
+    font-family: 'PT Serif', serif;
+}
+
+.bg-yellow{
+    background-color: #FFC017; ;
+}
+
+.border-bottom-dark {
+    border-bottom: 1px solid #414141
+}
+
+.slider-2-img{
+    width: 25px;
+    height: 25px;
+}
+
+.slider-a{
+    text-decoration: none;
+    color: black;
+}
+
+.slider-a:hover{
+    color:#FFC017
+}
+
+.aside-buttons > li {
+    margin-top: 10px
+}
+
+.footer:hover{
+    text-decoration: underline;
+}
